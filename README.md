@@ -171,3 +171,5 @@ Adding a new histogram is fairly easy since the program is dynamic enough to hol
 2. The histogram needs to be filled with the right values.  The filling of the histograms is done in the method ```fillFolder```.  In this method, there are several if blocks for the different headings.  Go to the appropriate heading (or make one if a new one was made in the Hist_info.in file), and write the following command to write to the histogram:
 # SR_LowMass_2017
 # CR_OS_LowMass_2017
+# CR_LS_LowMass_2017-
+# CR_LS_LowMass_2017-
