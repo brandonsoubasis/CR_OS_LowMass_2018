@@ -33,7 +33,7 @@ NGenTau		0  -1
 ***NRecoMuon1	        2    2   ///exactly 1 muon
 ***NRecoMuon2           1    2 
 ***NDiMuonCombinations  1   -1
-**METCut               	1   -1
+***METCut              	1   -1
 ***NRecoBJet            1    1
 ***NRecoWJet            1   -1
 ***NRecoJet1            2   -1
