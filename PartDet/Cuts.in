@@ -35,9 +35,9 @@ NGenTau		0  -1
 ***NDiMuonCombinations  1   -1
 ***METCut              	1   -1
 ***NRecoBJet            1    1
-***NRecoWJet            1   -1
-***NRecoJet1            2   -1
-***NRecoJet2            2   -1
+***NRecoWJet            0    0
+***NRecoJet1            3   -1
+***NRecoJet2            3   -1
 ***NDiJetCombinations   1   -1
 
 
