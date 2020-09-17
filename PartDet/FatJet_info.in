@@ -13,8 +13,8 @@ TauMatchingDeltaR  0.3
         Wjet
 #################################
 
-EtaCut 0.0 2.4
-PtCut 180.0
+EtaCut 0.0 3.5
+PtCut 150.0
 
 RemoveOverlapWithMuon1s 1
 RemoveOverlapWithMuon2s 0
